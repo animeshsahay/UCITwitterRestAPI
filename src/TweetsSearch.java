@@ -22,7 +22,7 @@ public class TweetsSearch {
 
         //Actual tweet scrapping
         if (args.length < 1) {
-            System.out.println("java twitter4j.examples.search.SearchTweets [query]");
+            System.out.println("Enter Appropriate Arguments !!!");
             System.exit(-1);
         }
         //Twitter twitter = new TwitterFactory().getInstance();
